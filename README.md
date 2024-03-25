@@ -41,9 +41,9 @@ ___
 ___
 ## **Download Links** : 
 You can access my project from your local machine !
->https : https://github.com/anurag203/TextUtils-React
+>https : https://github.com/Kanan2005/TextUtils-
 
 ```bash
-    git clone https://github.com/anurag203/TextUtils-React.git
+    git clone https://github.com/Kanan2005/TextUtils-
 ```
 ___
